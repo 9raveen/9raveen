@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**9raveen/9raveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I’m a passionate Machine Learning & Data Science enthusiast who loves turning data into insights and building real-world projects. Currently exploring AI, ML, and modern web technologies, with a long-term goal of becoming a top-tier AI engineer 🚀.<br>🔭 I’m currently working on<br>Machine Learning & Data Science projects, including fraud detection, intrusion detection systems, and data-driven web applications.<br>👯 I’m looking to collaborate on<br>Open-source projects in Machine Learning, Data Science, AI, and Analytics dashboards (Streamlit / Power BI)<br>🤝 I’m looking for help with<br>Advanced ML model optimization, real-world deployment, and scaling AI systems.<br>🌱 I’m currently learning<br>Deep Learning, Large Language Models (LLMs), GenAI, and improving my problem-solving & system design skills.<br>⚡ Fun fact<br>I believe consistent learning + strong fundamentals can beat talent every single time 💡
 
