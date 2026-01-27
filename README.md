@@ -1,5 +1,20 @@
 # Hi, I'm Praveen 💫
-I’m a passionate Machine Learning & Data Science enthusiast who loves turning data into insights and building real-world projects. Currently exploring AI, ML, and modern web technologies, with a long-term goal of becoming a top-tier AI engineer 🚀.<br>🔭 I’m currently working on<br>Machine Learning & Data Science projects, including fraud detection, intrusion detection systems, and data-driven web applications.<br>👯 I’m looking to collaborate on<br>Open-source projects in Machine Learning, Data Science, AI, and Analytics dashboards (Streamlit / Power BI)<br>🤝 I’m looking for help with<br>Advanced ML model optimization, real-world deployment, and scaling AI systems.<br>🌱 I’m currently learning<br>Deep Learning, Large Language Models (LLMs), GenAI, and improving my problem-solving & system design skills.<br>⚡ Fun fact<br>I believe consistent learning + strong fundamentals can beat talent every single time 💡
+I’m a Machine Learning & Data Science enthusiast passionate about turning data into real-world solutions. Currently exploring AI, ML, and modern web technologies, with a goal of becoming a top-tier AI engineer 🚀.<br><br>
+
+🔭 I’m currently working on<br>
+ML & Data Science projects (fraud detection, intrusion detection, data-driven apps)<br><br>
+
+👯 I’m looking to collaborate on<br>
+Open-source projects in ML, AI, and analytics (Streamlit / Power BI)<br><br>
+
+🌱 I’m currently learning<br>
+Deep Learning, LLMs, and GenAI<br><br>
+
+🤝 I’m looking for help with<br>
+Model optimization, deployment, and scaling AI systems<br><br>
+
+⚡ Fun fact<br>
+Strong fundamentals + consistency > talent 💡
 
 
 ## 🌐 Socials:
