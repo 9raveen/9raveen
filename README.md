@@ -130,7 +130,7 @@ Production-grade IDS on 2.8M records across 80+ features.
 ## 📌 Currently
 
 ```
-🔨 Building  →  Multi-Agent RAG Research Assistant (LangGraph + Gemini + Qdrant)
+🔨 Building  →  Multi-Agent RAG Research Assistant (LangGraph + Groq + Qdrant)
 📚 Learning  →  LLM Evaluation | LlamaIndex | CrewAI | Vector DBs
 🎯 Target    →  ML / AI Engineering Internships (2025–26)
 📍 Based in  →  Hyderabad, India
