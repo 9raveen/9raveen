@@ -19,7 +19,6 @@ I'm a **pre-final year B.Tech Computer Science (AI/ML)** student at **IIIT Nagpu
 
 - 🔭 Currently building a **Multi-Agent RAG Research Assistant** using LangGraph, Gemini, Qdrant & FastAPI
 - 🧪 Deep interest in **LLM orchestration**, **evaluation frameworks**, and **agentic AI pipelines**
-- 📄 Co-authored a research paper on **Network Intrusion Detection** (CICIDS2017, ~99% F1)
 - 🏆 Built **FacetBench** — a production-ready conversation scoring benchmark system (LangGraph + Qwen2.5-7B + ChromaDB + Docker)
 - 🌱 Currently sharpening: **LangChain/LlamaIndex/CrewAI**, **vector databases**, **LLM evaluation**
 - 💡 Long-term goal: ML Engineer focused on **LLM-based and agentic AI systems**
