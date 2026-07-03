@@ -2,7 +2,7 @@
 
 # Vankadoth Praveen 👋
 
-**ML Engineer in the Making · LLM Systems · Agentic AI · Research-Driven Builder**
+**AI ML Engineer in the Making · LLM Systems · Agentic AI · Research-Driven Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-praveen/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.praveen0700@gmail.com)
